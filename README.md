@@ -1,4 +1,7 @@
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
 
+
+EXAMPLE #18
 
 #基于移动设备的PPT 演示标注软件#
 #PPT Presentation Annotation Software In Windows Mobile Phones
